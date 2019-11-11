@@ -76,8 +76,9 @@ cd $CUR
 - [ ] finish up huveal stuff to ease that process
 - [ ] include some documentation about the reveal.js requirements for Hugo themes -- they need to be able to support org-generated reveal content
 - [ ] fix citations & include ~.bibtex~ files in the template
-- [ ] collect stray elisp into a single coherent package
+- [X] collect stray elisp into a single coherent package
 - [ ] make some kind of meta-repo with all the dependencies included
 - [ ] figure out a safe way to manage Grade files, but maybe also sitll include some of the template code that I use for that sutff.
-- [ ] determine if some kind of Canvas integration is possible.
-  - [ ] for instance, it looks like it's possible to [[https://community.canvaslms.com/docs/DOC-12813][download all submissions for an assignment.]] I'd like to write a [[https://www.ssocircle.com/en/developer-tutorial-saml-testing-using-curl-and-ssocheck-api/developer-tutorial-part-i-a-saml-sso-flow-from-the-command-line-with-curl/][cURL script that authenticates against the servers]] and grabs & unzips the appropriate zip file.  Not sure if that's going to be possible to do or not.  
+- [X] add setup.org file
+- [X] determine if some kind of Canvas integration is possible.
+  - [X] for instance, it looks like it's possible to [[https://community.canvaslms.com/docs/DOC-12813][download all submissions for an assignment.]] I'd like to write a [[https://www.ssocircle.com/en/developer-tutorial-saml-testing-using-curl-and-ssocheck-api/developer-tutorial-part-i-a-saml-sso-flow-from-the-command-line-with-curl/][cURL script that authenticates against the servers]] and grabs & unzips the appropriate zip file.  Not sure if that's going to be possible to do or not.  

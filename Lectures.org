@@ -1,8 +1,7 @@
+#+SETUPFILE: ./setup.org
 #+STARTUP: customtime
-#+HUGO_BASE_DIR: ./website/
 #+HUGO_SECTION: assignment
-#+HUGO_STATIC_IMAGES: Images
-#+HUGO_MENU: :menu main :parent Assignments
+# #+HUGO_MENU: :menu main :parent slides
 #+HUGO_AUTO_SET_LASTMOD: t
 
 * COMMENT Hugo Instructions
