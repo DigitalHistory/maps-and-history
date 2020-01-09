@@ -20,6 +20,78 @@
 
 #+RESULTS:
 
+
+* Welcome to HIS389 LEC 0601 "Maps and History"
+:PROPERTIES:
+:EXPORT_FILE_NAME: 01-intro
+:END:
+** Who Doesn't Love maps?
+- but what are they for? 
+** Hanover
+:PROPERTIES:
+:reveal_background: 
+:END:
+https://www.bytwerk.com/gpa/images/vb/vb-atlas-hannover.jpg
+** Also London
+https://media.nationalgeographic.org/assets/photos/000/276/27636.jpg
+** London
+https://tfl.gov.uk/cdn/static/cms/images/tube-map.gif
+** Paris
+https://upload.wikimedia.org/wikipedia/commons/4/45/Mark_Twain%27s_Map_of_Paris%2C_1870_%28flipped%29_-_Cornell_University_Library.jpg
+** Mountain?
+https://upload.wikimedia.org/wikipedia/commons/7/7e/Zentralbibliothek_Z%C3%BCrich_-_Ideen_zu_einer_Geographie_der_Pflanzen_nebst_einem_Naturgem%C3%A4lde_der_Tropenl%C3%A4nder_-_000012142.jpg
+** Knowledge?
+http://philosophy.talons43.ca/files/2016/06/New-Mind-Map_5c9bm4ud-2.jpg
+** So, what is a map?
+I'm not giving this away today! But:
+#+ATTR_REVEAL: :frag appear
+- representational (probably)
+- spatial (usually)
+- instrumental
+- argumentative (always, even when it's invisible)
+- legible under culturally-specific conditions
+** What does this course do? 
+#+ATTR_REVEAL: :frag appear
+- Double Vision
+  #+ATTR_REVEAL: :frag appear
+  - maps as *cultural objects* (i.e., primary sources)
+  - maps as *tools for arguing* (i.e., methods)
+- History of Maps, but also
+- Maps for History
+** Let's go over those maps!
+
+** Basic Course Outline: Historical Topics
+#+ATTR_REVEAL: :frag appear
+- Medieval Maps
+- Origins of Cartography (esp, in science & medicine)
+- Maps and Empire
+- Maps, Race, and Nation
+** Basic Course Outline: Historical THEMES
+#+ATTR_REVEAL: :frag appear
+- Knowledge and Power
+- Oppression and Resistance
+- Meaning and Representation
+** Basic Course Outline: Technical Skills
+#+ATTR_REVEAL: :frag appear
+- This is not a technical course! But:
+- need to be willing to try
+- Technical elements of assignments will be *relatively easy*, *well-explained*, and *accessible*
+- But the more technically-adept you are, the better you wil lbe at your craft
+** Assignments!
+There are lots
+- 1 straight-up short paper
+- 1 mixed paper/map modification
+- 1 Pass/Fail technical assignment
+- Big final project & presentation
+** Participation
+- show up (obvs)
+- participate actively!
+- paragraphs
+** Questions?
+
+#+ATTR_REVEAL: :frag appear
+- *No? Then I'll see you on Thursday!*
+
 * Topic 1
 :PROPERTIES:
 :EXPORT_FILE_NAME: 01-topic-1
