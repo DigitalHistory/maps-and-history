@@ -1,8 +1,0 @@
-#+SETUPFILE: ./setup.org
-
-
-* COMMENT Local Vars etc
-# Local Variables:
-# org-time-stamp-custom-formats: ("<%b. %d>" . "<%Y-%m-%d %H:%M>")
-# org-mwp-classtimes-calibrate: ("<2019-09-03 Tue>" "<2019-08-29 Thu>" )
-# End:
