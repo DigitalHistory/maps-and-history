@@ -1,6 +1,6 @@
-* Blank template for Matt Price's courses
+* HIS389: Maps and History (2020)
 
-This repo is an effort to develop standard practices around course deployment. At present my courses don't all conform to this standard, but eventually I hope they will.  By describing my processes here, I hope I will be able to standardize all my courses, write generic (rather than bespoke) deployment scripts, and ease the process of dockerizing my courses to avoid catastrophic failures (as occasionally still occur).  
+This repo contains materials for a one-time course offered at Woodsworth College in Summer 2020, "The Current Plague". For more information on the course, see [[./Syllabus.org][the syllabus]]. The rest of this document contains information about the course structure and is copied without modification from my [[https://github.com/titaniumbones/course-template][template course repository]]. As this course did not have a significant web presence, some of the information below is irrelevant.  
 
 ** Org-mode
 
